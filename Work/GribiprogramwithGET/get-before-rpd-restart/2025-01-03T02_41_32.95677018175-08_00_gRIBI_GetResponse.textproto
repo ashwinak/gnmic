@@ -1,0 +1,1605 @@
+gribi_message {
+  node_address: "dns:///[2607:f8b0:f803:160b::1]:9340"
+  get_response {
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.71.0.11/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\013\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109071
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.71.0.13/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\013\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109071
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.71.0.14/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\013\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109071
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.71.0.15/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\013\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109071
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.71.0.16/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\013\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109071
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.71.0.17/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\013\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109071
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.71.0.18/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\013\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109071
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.71.0.20/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\013\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109071
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.71.0.21/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\013\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109071
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.71.0.22/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\013\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109071
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.71.0.23/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\013\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109071
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.71.0.24/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\013\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109071
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.71.0.25/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\013\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109071
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.71.0.28/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\013\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109071
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.72.0.0/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\017\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109063
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.72.0.1/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\017\000\022\000a"
+          }
+          next_hop_group {
+            value: 67109063
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.72.0.2/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\017\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109063
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.72.0.3/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\017\000\022\000a"
+          }
+          next_hop_group {
+            value: 67109063
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.72.0.4/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\017\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109063
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.72.0.5/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\017\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109063
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.72.0.6/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\017\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109063
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.72.0.7/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\017\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109063
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.72.0.8/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\017\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109063
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.72.0.9/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\017\000\022\000a"
+          }
+          next_hop_group {
+            value: 67109063
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.72.0.11/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\017\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109063
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.72.0.12/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\017\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109063
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.72.0.13/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\017\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109063
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.72.0.14/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\017\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109063
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.72.0.15/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\017\000\022\000a"
+          }
+          next_hop_group {
+            value: 67109063
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.72.0.16/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\017\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109063
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.72.0.17/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\017\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109063
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.72.0.18/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\017\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109063
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.72.0.19/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\017\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109063
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.72.0.20/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\017\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109063
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.72.0.21/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\017\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109063
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.72.0.23/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\017\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109063
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.72.0.26/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000\017\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109063
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.75.0.0/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000n\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109092
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.75.0.1/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000n\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109092
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.75.0.2/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000n\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109092
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.75.0.3/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000n\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109092
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.75.0.4/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000n\000\022\000a"
+          }
+          next_hop_group {
+            value: 67109092
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.75.0.5/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000n\000\022\000a"
+          }
+          next_hop_group {
+            value: 67109092
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.75.0.7/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000n\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109092
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.75.0.8/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000n\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109092
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.75.0.9/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000n\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109092
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.75.0.10/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000n\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109092
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.75.0.11/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000n\000\022\000a"
+          }
+          next_hop_group {
+            value: 67109092
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.75.0.13/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000n\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109092
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.75.0.14/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000n\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109092
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.75.0.15/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000n\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109092
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.75.0.16/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000n\000\022\000a"
+          }
+          next_hop_group {
+            value: 67109092
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.75.0.18/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000n\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109092
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.75.0.19/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000n\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109092
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.75.0.21/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000n\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109092
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.75.0.22/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000n\000\022\000a"
+          }
+          next_hop_group {
+            value: 67109092
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.75.0.24/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000n\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109092
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.75.0.25/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000n\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109092
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.75.0.26/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000n\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109092
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.79.0.0/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\0002\000\022\000a"
+          }
+          next_hop_group {
+            value: 67109253
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.79.0.1/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\0002\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109253
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.79.0.2/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\0002\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109253
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.79.0.3/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\0002\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109253
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.79.0.4/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\0002\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109253
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.79.0.5/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\0002\000\022\000a"
+          }
+          next_hop_group {
+            value: 67109253
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.79.0.6/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\0002\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109253
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.79.0.7/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\0002\000\022\000a"
+          }
+          next_hop_group {
+            value: 67109253
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.79.0.8/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\0002\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109253
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.79.0.9/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\0002\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109253
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.79.0.10/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\0002\000\022\000a"
+          }
+          next_hop_group {
+            value: 67109253
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.79.0.11/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\0002\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109253
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.79.0.12/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\0002\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109253
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.79.0.13/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\0002\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109253
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.79.0.15/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\0002\000\022\000a"
+          }
+          next_hop_group {
+            value: 67109253
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.79.0.16/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\0002\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109253
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.79.0.17/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\0002\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109253
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.79.0.18/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\0002\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109253
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.79.0.19/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\0002\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109253
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.79.0.20/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\0002\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109253
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.79.0.21/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\0002\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109253
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.79.0.22/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\0002\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109253
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.79.0.23/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\0002\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109253
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.79.0.24/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\0002\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109253
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.79.0.26/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\0002\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67109253
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.84.0.1/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000Y\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67108875
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.84.0.2/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000Y\000\022\000a"
+          }
+          next_hop_group {
+            value: 67108875
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.84.0.3/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000Y\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67108875
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.84.0.5/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000Y\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67108875
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.84.0.6/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000Y\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67108875
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.84.0.7/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000Y\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67108875
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.84.0.8/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000Y\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67108875
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.84.0.9/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000Y\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67108875
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.84.0.10/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000Y\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67108875
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.84.0.11/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000Y\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67108875
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.84.0.12/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000Y\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67108875
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.84.0.13/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000Y\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67108875
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.84.0.15/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000Y\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67108875
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.84.0.16/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000Y\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67108875
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.84.0.17/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000Y\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67108875
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "REPAIR"
+      ipv4 {
+        prefix: "99.84.0.18/32"
+        ipv4_entry {
+          entry_metadata {
+            value: "\200\377\000Y\000\022\000\001"
+          }
+          next_hop_group {
+            value: 67108875
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+  }
+}

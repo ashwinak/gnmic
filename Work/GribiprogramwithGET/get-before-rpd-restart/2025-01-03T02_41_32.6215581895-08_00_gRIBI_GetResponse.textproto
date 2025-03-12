@@ -1,0 +1,1822 @@
+gribi_message {
+  node_address: "dns:///[2607:f8b0:f803:160b::1]:9340"
+  get_response {
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 1
+        next_hop {
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          network_instance {
+            value: "DEFAULT"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 2
+        next_hop {
+          network_instance {
+            value: "REPAIR"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 3
+        next_hop {
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 5
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "111.111.111.111"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "DEFAULT"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4359
+        next_hop {
+          ip_address {
+            value: "10.41.164.15"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4360
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae1"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4361
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae3"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4362
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae2"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4363
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae27"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4364
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae20"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4365
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae22"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4366
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae25"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4367
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae24"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4368
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae21"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4369
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae23"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4370
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae26"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4371
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae39"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4372
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae36"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4373
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae38"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4374
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae41"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4375
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae40"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4376
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae37"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4377
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae43"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4378
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae42"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4379
+        next_hop {
+          ip_address {
+            value: "10.41.164.117"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4380
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae51"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4381
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae44"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4382
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae46"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4383
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae45"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4384
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae50"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4385
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae48"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4386
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae49"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4387
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae47"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4388
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae7"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4389
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae6"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4390
+        next_hop {
+          ip_address {
+            value: "10.41.164.141"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4391
+        next_hop {
+          ip_address {
+            value: "10.41.164.123"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4392
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae28"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4393
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae31"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4394
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae35"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4395
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae30"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4396
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae34"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4397
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae33"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4398
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae32"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4399
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae29"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4400
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae19"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4401
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae14"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4402
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae13"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4403
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae16"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4404
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae17"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4405
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae18"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4406
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae12"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4407
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae15"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4408
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae9"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4409
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae8"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4410
+        next_hop {
+          ip_address {
+            value: "10.41.164.77"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4411
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae55"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4412
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae54"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4413
+        next_hop {
+          ip_address {
+            value: "10.41.164.27"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4414
+        next_hop {
+          ip_address {
+            value: "10.41.164.43"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4415
+        next_hop {
+          ip_address {
+            value: "10.41.164.111"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4416
+        next_hop {
+          ip_address {
+            value: "10.41.164.49"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4417
+        next_hop {
+          ip_address {
+            value: "10.41.164.105"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4418
+        next_hop {
+          ip_address {
+            value: "10.41.164.75"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4419
+        next_hop {
+          ip_address {
+            value: "10.41.164.21"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4420
+        next_hop {
+          ip_address {
+            value: "10.41.164.7"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4421
+        next_hop {
+          ip_address {
+            value: "10.41.164.87"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4422
+        next_hop {
+          ip_address {
+            value: "10.41.164.65"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4423
+        next_hop {
+          ip_address {
+            value: "10.41.164.115"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4424
+        next_hop {
+          ip_address {
+            value: "10.41.164.99"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4425
+        next_hop {
+          ip_address {
+            value: "10.41.164.93"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4426
+        next_hop {
+          ip_address {
+            value: "10.41.164.137"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4427
+        next_hop {
+          ip_address {
+            value: "10.41.164.131"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4428
+        next_hop {
+          ip_address {
+            value: "10.41.164.31"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4429
+        next_hop {
+          ip_address {
+            value: "10.41.164.121"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4430
+        next_hop {
+          ip_address {
+            value: "10.41.164.17"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4431
+        next_hop {
+          ip_address {
+            value: "10.41.164.13"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4432
+        next_hop {
+          ip_address {
+            value: "10.41.164.29"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4433
+        next_hop {
+          ip_address {
+            value: "10.41.164.119"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4434
+        next_hop {
+          ip_address {
+            value: "10.41.164.35"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4435
+        next_hop {
+          ip_address {
+            value: "10.41.164.45"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4436
+        next_hop {
+          ip_address {
+            value: "10.41.164.129"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4437
+        next_hop {
+          ip_address {
+            value: "10.41.164.63"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4438
+        next_hop {
+          ip_address {
+            value: "10.41.164.97"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4439
+        next_hop {
+          ip_address {
+            value: "10.41.164.53"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4440
+        next_hop {
+          ip_address {
+            value: "10.41.164.135"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4441
+        next_hop {
+          ip_address {
+            value: "10.41.164.33"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4442
+        next_hop {
+          ip_address {
+            value: "10.41.164.5"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4443
+        next_hop {
+          ip_address {
+            value: "10.41.164.83"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4444
+        next_hop {
+          ip_address {
+            value: "10.41.164.89"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4445
+        next_hop {
+          ip_address {
+            value: "10.41.164.95"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4446
+        next_hop {
+          ip_address {
+            value: "10.41.164.109"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4447
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae53"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4448
+        next_hop {
+          ip_address {
+            value: "10.118.128.1"
+          }
+          interface_ref {
+            interface {
+              value: "ae52"
+            }
+            subinterface {
+            }
+          }
+          mac_address {
+            value: "00:1a:11:17:5f:80"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4449
+        next_hop {
+          ip_address {
+            value: "10.41.164.3"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4450
+        next_hop {
+          ip_address {
+            value: "10.41.164.71"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4451
+        next_hop {
+          ip_address {
+            value: "10.41.164.47"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4452
+        next_hop {
+          ip_address {
+            value: "10.41.164.133"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4453
+        next_hop {
+          ip_address {
+            value: "10.41.164.57"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4454
+        next_hop {
+          ip_address {
+            value: "10.41.164.59"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+  }
+}

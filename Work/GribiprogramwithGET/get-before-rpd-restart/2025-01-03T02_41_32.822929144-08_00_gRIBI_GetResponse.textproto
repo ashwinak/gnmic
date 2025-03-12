@@ -1,0 +1,2035 @@
+gribi_message {
+  node_address: "dns:///[2607:f8b0:f803:160b::1]:9340"
+  get_response {
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4455
+        next_hop {
+          ip_address {
+            value: "10.41.164.81"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4456
+        next_hop {
+          ip_address {
+            value: "10.41.164.79"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4457
+        next_hop {
+          ip_address {
+            value: "10.41.164.25"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4458
+        next_hop {
+          ip_address {
+            value: "10.41.164.69"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4459
+        next_hop {
+          ip_address {
+            value: "10.41.164.23"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4460
+        next_hop {
+          ip_address {
+            value: "10.41.164.37"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4461
+        next_hop {
+          ip_address {
+            value: "10.41.164.41"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4462
+        next_hop {
+          ip_address {
+            value: "10.41.164.127"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4463
+        next_hop {
+          ip_address {
+            value: "10.41.164.101"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4464
+        next_hop {
+          ip_address {
+            value: "10.41.164.61"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4465
+        next_hop {
+          ip_address {
+            value: "10.41.164.85"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4466
+        next_hop {
+          ip_address {
+            value: "10.41.164.67"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4467
+        next_hop {
+          ip_address {
+            value: "10.41.164.19"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4468
+        next_hop {
+          ip_address {
+            value: "10.41.164.113"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4469
+        next_hop {
+          ip_address {
+            value: "10.41.164.1"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4470
+        next_hop {
+          ip_address {
+            value: "10.41.164.55"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4471
+        next_hop {
+          ip_address {
+            value: "10.41.164.73"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4472
+        next_hop {
+          ip_address {
+            value: "10.41.164.143"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4473
+        next_hop {
+          ip_address {
+            value: "10.41.164.125"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4474
+        next_hop {
+          ip_address {
+            value: "10.41.164.107"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4475
+        next_hop {
+          ip_address {
+            value: "10.41.164.39"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4476
+        next_hop {
+          ip_address {
+            value: "10.41.164.91"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4477
+        next_hop {
+          ip_address {
+            value: "10.41.164.51"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4478
+        next_hop {
+          ip_address {
+            value: "10.41.164.11"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4479
+        next_hop {
+          ip_address {
+            value: "10.41.164.139"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4480
+        next_hop {
+          ip_address {
+            value: "10.41.164.103"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4481
+        next_hop {
+          ip_address {
+            value: "10.41.164.9"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4482
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "98.12.0.37"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4483
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "98.62.0.15"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4484
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "98.110.0.20"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4485
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "114.1.0.43"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4486
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "99.192.0.2"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4487
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "99.223.0.9"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4488
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "111.55.0.3"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4489
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "99.207.0.17"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4490
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "98.252.0.29"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4491
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "112.249.0.37"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4492
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "112.21.0.7"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4493
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "113.75.0.1"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4494
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "99.198.0.5"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4495
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "98.185.0.15"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4496
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "112.171.0.13"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4497
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "112.250.0.0"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4498
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "99.1.0.46"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4499
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "98.99.0.38"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4500
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "114.2.0.12"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4501
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "111.187.0.13"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4502
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "111.100.0.31"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4503
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "98.115.0.15"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4504
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "101.6.0.22"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4505
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "111.214.0.8"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4506
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "99.28.0.16"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4507
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "99.242.0.3"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4508
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "99.32.0.14"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4509
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "98.109.0.11"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4510
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "98.27.0.18"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4511
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "111.31.0.13"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4512
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "99.72.0.14"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4513
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "99.248.0.18"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4514
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "98.72.0.14"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4515
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "99.254.0.22"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4516
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "112.71.0.18"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4517
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "112.108.0.4"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4518
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "111.99.0.27"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4519
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "112.27.0.5"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4520
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "99.33.0.29"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4521
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "99.55.0.2"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4522
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "98.19.0.7"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4523
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "111.254.0.13"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4524
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "111.231.0.23"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4525
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "111.157.0.7"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4526
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "98.59.0.2"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4527
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "112.59.0.10"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4528
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "98.192.0.20"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4529
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "111.184.0.0"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4530
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "98.213.0.5"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4531
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "98.31.0.15"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4532
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "98.55.0.19"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4533
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "111.248.0.7"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4534
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "111.242.0.4"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4535
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "111.107.0.25"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4536
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "112.99.0.9"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4537
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "99.224.0.2"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4538
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "99.17.0.3"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4539
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "111.12.0.8"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4540
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "112.236.0.18"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4541
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "112.185.0.29"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4542
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "112.75.0.5"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4543
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "99.251.0.23"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4544
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "111.33.0.24"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4545
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "111.21.0.7"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4546
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "112.212.0.0"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4548
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "112.60.0.2"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4549
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "111.115.0.18"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4550
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "99.140.0.5"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4551
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "99.178.0.15"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4552
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "111.13.0.4"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4553
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "99.4.0.3"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4554
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "99.59.0.3"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop {
+        index: 4555
+        next_hop {
+          encapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          decapsulate_header: OPENCONFIGAFTTYPESENCAPSULATIONHEADERTYPE_IPV4
+          ip_in_ip {
+            dst_ip {
+              value: "98.140.0.3"
+            }
+            src_ip {
+              value: "222.222.222.222"
+            }
+          }
+          network_instance {
+            value: "REPAIRED"
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+  }
+}

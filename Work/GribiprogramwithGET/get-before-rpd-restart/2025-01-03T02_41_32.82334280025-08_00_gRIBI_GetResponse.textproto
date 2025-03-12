@@ -1,0 +1,2105 @@
+gribi_message {
+  node_address: "dns:///[2607:f8b0:f803:160b::1]:9340"
+  get_response {
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108893
+        next_hop_group {
+          next_hop {
+            index: 4729
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108894
+        next_hop_group {
+          next_hop {
+            index: 4890
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108895
+        next_hop_group {
+          next_hop {
+            index: 4875
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108896
+        next_hop_group {
+          next_hop {
+            index: 4805
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108897
+        next_hop_group {
+          next_hop {
+            index: 4603
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108898
+        next_hop_group {
+          next_hop {
+            index: 4672
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108899
+        next_hop_group {
+          next_hop {
+            index: 4680
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108900
+        next_hop_group {
+          next_hop {
+            index: 4779
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108901
+        next_hop_group {
+          next_hop {
+            index: 4894
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108902
+        next_hop_group {
+          next_hop {
+            index: 4564
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108903
+        next_hop_group {
+          next_hop {
+            index: 4793
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108904
+        next_hop_group {
+          next_hop {
+            index: 4719
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108905
+        next_hop_group {
+          next_hop {
+            index: 4666
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108906
+        next_hop_group {
+          next_hop {
+            index: 4775
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108907
+        next_hop_group {
+          next_hop {
+            index: 4745
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108908
+        next_hop_group {
+          next_hop {
+            index: 4517
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108909
+        next_hop_group {
+          next_hop {
+            index: 4557
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108910
+        next_hop_group {
+          next_hop {
+            index: 4495
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108911
+        next_hop_group {
+          next_hop {
+            index: 4591
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108912
+        next_hop_group {
+          next_hop {
+            index: 4863
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108913
+        next_hop_group {
+          next_hop {
+            index: 4489
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108914
+        next_hop_group {
+          next_hop {
+            index: 4858
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108915
+        next_hop_group {
+          next_hop {
+            index: 4791
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108916
+        next_hop_group {
+          next_hop {
+            index: 4699
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108917
+        next_hop_group {
+          next_hop {
+            index: 4700
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108918
+        next_hop_group {
+          next_hop {
+            index: 4523
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108919
+        next_hop_group {
+          next_hop {
+            index: 4756
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108920
+        next_hop_group {
+          next_hop {
+            index: 4695
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108921
+        next_hop_group {
+          next_hop {
+            index: 4804
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108922
+        next_hop_group {
+          next_hop {
+            index: 4620
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108923
+        next_hop_group {
+          next_hop {
+            index: 4918
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108924
+        next_hop_group {
+          next_hop {
+            index: 4549
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108925
+        next_hop_group {
+          next_hop {
+            index: 4509
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108926
+        next_hop_group {
+          next_hop {
+            index: 4694
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108927
+        next_hop_group {
+          next_hop {
+            index: 4613
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108928
+        next_hop_group {
+          next_hop {
+            index: 4568
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108929
+        next_hop_group {
+          next_hop {
+            index: 4883
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108930
+        next_hop_group {
+          next_hop {
+            index: 4510
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108931
+        next_hop_group {
+          next_hop {
+            index: 4799
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108932
+        next_hop_group {
+          next_hop {
+            index: 4532
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108933
+        next_hop_group {
+          next_hop {
+            index: 4754
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108934
+        next_hop_group {
+          next_hop {
+            index: 4760
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108935
+        next_hop_group {
+          next_hop {
+            index: 4771
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108936
+        next_hop_group {
+          next_hop {
+            index: 4688
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108937
+        next_hop_group {
+          next_hop {
+            index: 4540
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108938
+        next_hop_group {
+          next_hop {
+            index: 4820
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108939
+        next_hop_group {
+          next_hop {
+            index: 4825
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108940
+        next_hop_group {
+          next_hop {
+            index: 4897
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108941
+        next_hop_group {
+          next_hop {
+            index: 4541
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108942
+        next_hop_group {
+          next_hop {
+            index: 4809
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108943
+        next_hop_group {
+          next_hop {
+            index: 4744
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108944
+        next_hop_group {
+          next_hop {
+            index: 4887
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108945
+        next_hop_group {
+          next_hop {
+            index: 4846
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108946
+        next_hop_group {
+          next_hop {
+            index: 4682
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108947
+        next_hop_group {
+          next_hop {
+            index: 4671
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108948
+        next_hop_group {
+          next_hop {
+            index: 4917
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108949
+        next_hop_group {
+          next_hop {
+            index: 4797
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108950
+        next_hop_group {
+          next_hop {
+            index: 4521
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108951
+        next_hop_group {
+          next_hop {
+            index: 4637
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108952
+        next_hop_group {
+          next_hop {
+            index: 4571
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108953
+        next_hop_group {
+          next_hop {
+            index: 4785
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108954
+        next_hop_group {
+          next_hop {
+            index: 4487
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108955
+        next_hop_group {
+          next_hop {
+            index: 4589
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108956
+        next_hop_group {
+          next_hop {
+            index: 4871
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108957
+        next_hop_group {
+          next_hop {
+            index: 4848
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108958
+        next_hop_group {
+          next_hop {
+            index: 4561
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108959
+        next_hop_group {
+          next_hop {
+            index: 4636
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108960
+        next_hop_group {
+          next_hop {
+            index: 4502
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108961
+        next_hop_group {
+          next_hop {
+            index: 4765
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108962
+        next_hop_group {
+          next_hop {
+            index: 4499
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108963
+        next_hop_group {
+          next_hop {
+            index: 4813
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108964
+        next_hop_group {
+          next_hop {
+            index: 4789
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108965
+        next_hop_group {
+          next_hop {
+            index: 4631
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108966
+        next_hop_group {
+          next_hop {
+            index: 4592
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108967
+        next_hop_group {
+          next_hop {
+            index: 4907
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108968
+        next_hop_group {
+          next_hop {
+            index: 4800
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108969
+        next_hop_group {
+          next_hop {
+            index: 4741
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108970
+        next_hop_group {
+          next_hop {
+            index: 4723
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108971
+        next_hop_group {
+          next_hop {
+            index: 4494
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108972
+        next_hop_group {
+          next_hop {
+            index: 4508
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108973
+        next_hop_group {
+          next_hop {
+            index: 4782
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108974
+        next_hop_group {
+          next_hop {
+            index: 4844
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108975
+        next_hop_group {
+          next_hop {
+            index: 4786
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108976
+        next_hop_group {
+          next_hop {
+            index: 4758
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108977
+        next_hop_group {
+          next_hop {
+            index: 4708
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108978
+        next_hop_group {
+          next_hop {
+            index: 4704
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108979
+        next_hop_group {
+          next_hop {
+            index: 4769
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108980
+        next_hop_group {
+          next_hop {
+            index: 4681
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108981
+        next_hop_group {
+          next_hop {
+            index: 4905
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108982
+        next_hop_group {
+          next_hop {
+            index: 4788
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108983
+        next_hop_group {
+          next_hop {
+            index: 4619
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108984
+        next_hop_group {
+          next_hop {
+            index: 4861
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108985
+        next_hop_group {
+          next_hop {
+            index: 4486
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108986
+        next_hop_group {
+          next_hop {
+            index: 4904
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108987
+        next_hop_group {
+          next_hop {
+            index: 4822
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108988
+        next_hop_group {
+          next_hop {
+            index: 4725
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108989
+        next_hop_group {
+          next_hop {
+            index: 4845
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108990
+        next_hop_group {
+          next_hop {
+            index: 4857
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108991
+        next_hop_group {
+          next_hop {
+            index: 4562
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+    entry {
+      network_instance: "DEFAULT"
+      next_hop_group {
+        id: 67108992
+        next_hop_group {
+          next_hop {
+            index: 4721
+            next_hop {
+              weight {
+                value: 1
+              }
+            }
+          }
+          backup_next_hop_group {
+            value: 1
+          }
+        }
+      }
+      rib_status: PROGRAMMED
+      fib_status: PROGRAMMED
+    }
+  }
+}
